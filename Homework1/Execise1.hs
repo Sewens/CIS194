@@ -1,6 +1,5 @@
 {-
 Homework1 by Sewen.
-
 -}
 toDigits :: Integer -> [Integer]
 toDigits x
